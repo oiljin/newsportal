@@ -1,0 +1,31 @@
+{
+  "name": "newsportal",
+  "description": "",
+  "main": "gulpfile.js",
+  "private": true,
+  "authors": [
+    "Oleg Iljin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test",
+    "portal",
+    "news"
+  ],
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}
